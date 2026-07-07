@@ -52,7 +52,7 @@ Spam_Classifier/
 │   └── tfidf_vectorizer.pkl
 │
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
@@ -164,20 +164,6 @@ The models were evaluated using:
 
 ---
 
-## 📈 Results
-
-The project compares multiple models using a performance table.
-
-| Model | Accuracy | Precision | Recall | F1 Score |
-|--------|----------|-----------|--------|----------|
-| Naive Bayes (CountVectorizer) | ... | ... | ... | ... |
-| Logistic Regression (CountVectorizer) | ... | ... | ... | ... |
-| Naive Bayes (TF-IDF) | ... | ... | ... | ... |
-| Logistic Regression (TF-IDF) | ... | ... | ... | ... |
-
-*(Replace the values with your actual results.)*
-
----
 
 ## 💾 Model Saving
 
